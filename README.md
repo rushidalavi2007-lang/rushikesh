@@ -4,9 +4,9 @@
 ---
 
 ## Student Details
-- **Student Name:** Rushikesh Dalavi  
-- **PRN:** Enter Your PRN  
-- **Class / Division:** S.Y. B.Tech AI & DS / Enter Division  
+- **Student Name:** Rushikesh Balasaheb Dalavi  
+- **PRN:** 125UAD1072 
+- **Class / Division:** S.Y. B.Tech AI & DS / D  
 - **Department:** Department of Artificial Intelligence & Data Science  
 - **Institute:** Zeal College of Engineering & Research, Pune  
 
@@ -15,7 +15,7 @@
 - **Course Code:** ADPC303  
 - **Programme:** S.Y. B.Tech. Artificial Intelligence and Data Science  
 - **Semester:** III  
-- **Language Standard:** C++17 or later  
+- **Faculty:** Dr.Prof.Chandan Prasad 
 
 ---
 
